@@ -1,0 +1,15 @@
+# Ignore Dev Settings
+.vscode/
+.conda/
+
+# Ignore API Config
+.env
+
+# Ignore Output Directories
+bulk_downloads/
+filtered.parquet/
+
+# Ignore Output Files
+*.csv
+*.json
+*.parquet
