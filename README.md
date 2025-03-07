@@ -4,7 +4,7 @@ Jupyter Notebook to Download and Process Historical LMPs by Node in ERCOT
 ### Getting Started
 
 1. Register for API Access at: https://developer.ercot.com/applications/pubapi/user-guide/registration-and-authentication/
-2. Copy your USERNAME, PASSWORD AND SUBSCRIPTION_KEY in a .env file in the main director
+2. Copy your USERNAME, PASSWORD AND SUBSCRIPTION_KEY in a .env file in the main directory
 3. Install the pre-requisites in requirements.txt
 
 ### Selecting Time and Bus Parameters
